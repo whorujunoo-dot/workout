@@ -1,0 +1,41 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="WORKOUT app icon">
+  <defs>
+    <linearGradient id="bgG" x1="0" y1="0" x2="512" y2="512" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#16162a"/>
+      <stop offset="1" stop-color="#0a0a0f"/>
+    </linearGradient>
+    <linearGradient id="fg" x1="256" y1="96" x2="256" y2="430" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#aeffe6"/>
+      <stop offset="0.45" stop-color="#00e5a0"/>
+      <stop offset="1" stop-color="#00b37d"/>
+    </linearGradient>
+    <linearGradient id="cg" x1="256" y1="232" x2="256" y2="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="0.55" stop-color="#d4fff1"/>
+      <stop offset="1" stop-color="#7cf0cf"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="114" fill="url(#bgG)"/>
+  <rect x="6" y="6" width="500" height="500" rx="110" fill="none" stroke="#00e5a0" stroke-opacity="0.18" stroke-width="3"/>
+  <g transform="translate(76,76) scale(3)">
+    <path d="M60 10
+             C 66 26, 60 36, 54 44
+             C 49 51, 45 56, 45 56
+             C 44 50, 46 45, 46 45
+             C 36 53, 28 67, 28 80
+             a 32 32 0 1 0 64 0
+             c 0 -12 -6 -24 -15 -32
+             c 1 8 -1 14 -5 18
+             c 6 -11 5 -28 -7 -44 Z"
+          fill="url(#fg)"/>
+    <path d="M60 54
+             c 5 9, 2 17, -1 22
+             c 9 -2, 12 -10, 12 -10
+             c 4 5, 6 11, 6 16
+             a 17 17 0 1 1 -34 0
+             c 0 -7, 4 -14, 9 -19
+             c 0 5, 1 8, 3 10
+             c -3 -6, -2 -13, 1 -19 Z"
+          fill="url(#cg)"/>
+  </g>
+</svg>
